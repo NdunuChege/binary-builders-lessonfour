@@ -1,0 +1,9 @@
+html tags <></>
+headings h1,h2,h3,h4,h5,h6
+attribute - celements that give your tags more functionality
+<img /> (creates image) 
+relative link = locally accessed images (zile ziko kwa comp tayari)
+<img src=""/>
+lists - <ul>(unordered lists) is the parent while <li> are the children <ul><li><ul>, (ordered lists) <ol>
+html->css - first link the two files, <link relative="" href="" />
+css selectors - element, class, id
